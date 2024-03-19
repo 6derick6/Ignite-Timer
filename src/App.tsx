@@ -9,7 +9,5 @@ export function App() {
 
       <GlobalStyle />
     </ThemeProvider>
-   
   )
 }
-
